@@ -5,7 +5,7 @@
 
 ---
 
-## 📌 Présentation du Projet
+## Présentation du projet
 
 Ce dépôt contient une **analyse approfondie du marché mondial du jeu vidéo** basée sur des données couvrant la période **2021–2025**.
 
@@ -13,7 +13,7 @@ L’objectif est d’accompagner **Édouard**, représentant d’un éditeur *Mi
 
 ---
 
-## 📝 Storytelling – La Mission d’Édouard
+## Storytelling – La Mission d’Édouard
 
 Édouard dirige un studio ambitieux, capable d’investir, mais évoluant dans un marché **extrêmement concurrentiel** de plus de **83 000 jeux**.
 
@@ -27,11 +27,11 @@ Dans cet environnement :
 
 ---
 
-## 🛠️ Architecture Technique
+## Architecture technique
 
 Le projet repose sur un **pipeline de données en deux étapes** :
 
-### 1️⃣ Extraction & Traitement des Données
+### 1️⃣ Extraction & traitement des données
 - Script Python : `extraction.py`
 - Nettoyage et normalisation des données
 - Gestion des types
@@ -44,9 +44,11 @@ Le projet repose sur un **pipeline de données en deux étapes** :
 
 ---
 
-## 📊 Analyse du Dashboard
+## 📊 Analyse du dashboard
 
-### 📍 Page 1 – Diagnostic du Marché
+### 📍 Page 1 – Diagnostic du marché
+
+![Santé du Marché Mondial](https://github.com/BYRic-F/VideoGame-Market/raw/b1aa6f5a38a1b57326d9e20c93a192e90d15f28f/images/Sant%C3%A9%20du%20march%C3%A9.png)
 
 **Saturation du marché**
 - Les **10 plus grands éditeurs** captent près de **50 % de la valeur totale**
@@ -58,7 +60,9 @@ Le projet repose sur un **pipeline de données en deux étapes** :
 
 ---
 
-### 📍 Page 2 – Leviers de Performance
+### 📍 Page 2 – Leviers de performance
+
+![Leviers de Rentabilité](https://github.com/BYRic-F/VideoGame-Market/raw/b1aa6f5a38a1b57326d9e20c93a192e90d15f28f/images/Leviers%20de%20rentabilit%C3%A9.png)
 
 **Qualité & Satisfaction**
 - Seuils critiques de succès identifiés :
@@ -88,7 +92,7 @@ Le projet repose sur un **pipeline de données en deux étapes** :
 
 **Modèle de revenus**
 - Stratégie basée sur la **rétention et la persistance**
-- Moyenne observée : **2,90 DLC par titre**
+- Moyenne observée : **Entre 2 et 3 DLC par titre**
 - Objectif : maximisation de la **LTV (Lifetime Value)**
 
 **Indice de Risque**
