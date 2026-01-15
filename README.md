@@ -2,6 +2,7 @@
 
 **Analyse stratégique & Business Plan pour *GameQuest Productions***  
 *Projet réalisé par le cabinet fictif **Level Up Analytics***
+*Durée maximum du projet : 1 journée et demi*
 
 ---
 
