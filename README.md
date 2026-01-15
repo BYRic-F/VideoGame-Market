@@ -2,13 +2,15 @@
 
 **Analyse stratégique & Business Plan pour *GameQuest Productions***  
 *Projet réalisé par le cabinet fictif **Level Up Analytics***
+
 *Durée maximum du projet : 1 journée et demi*
 
 ---
 
 ## Présentation du projet
 
-Ce dépôt contient une **analyse approfondie du marché mondial du jeu vidéo** basée sur des données couvrant la période **2021–2025**.
+Ce dépôt contient une **analyse du marché mondial du jeu vidéo** basée sur des données couvrant la période **2021–2025**.
+Nous n'avons pas pu exploiter toutes les KPI dans ce projet, car le projet devait être effectuer en 1 journée et demi.
 
 L’objectif est d’accompagner **Édouard**, représentant d’un éditeur *Mid-Tier*, dans la **sécurisation de son prochain investissement majeur**, en s’appuyant sur des **données factuelles** plutôt que sur l’intuition.
 
