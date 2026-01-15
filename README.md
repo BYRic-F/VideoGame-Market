@@ -104,7 +104,7 @@ Le projet repose sur un **pipeline de données en deux étapes** :
 
 ---
 
-## 📁 Contenu du Dépôt
+## 📁 Contenu du dépôt
 
 - `extraction.py`  
   Script Python de préparation et transformation des données
@@ -122,7 +122,7 @@ Le projet repose sur un **pipeline de données en deux étapes** :
 
 ---
 
-## 💡 Comment Utiliser ce Projet
+## Comment utiliser ce projet
 
 1. 📂 Consulter le dossier `/images/` pour une lecture rapide des conclusions  
 2. 🐍 Lancer `extraction.py` pour comprendre la logique de préparation des données  
@@ -134,7 +134,7 @@ Le projet repose sur un **pipeline de données en deux étapes** :
 
 ---
 
-## 🚀 Objectif Final
+## Objectif final
 
 Permettre à un éditeur **Mid-Tier** de :
 - Réduire le risque d’investissement
