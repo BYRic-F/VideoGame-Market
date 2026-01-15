@@ -5,8 +5,8 @@
 
 *Durée maximum du projet : 1 journée et demi*
 
-📊 Lien vers le fichier Power BI (.pbix) Dashboard interactif complet (hébergé sur Google Drive)
-
+- 📊 **[Lien vers le fichier Power BI (.pbix)](https://drive.google.com/file/d/177ZS8phUrQi2kXsPt86qrFvhnZrhuogY/view?usp=sharing)**
+  Dashboard interactif complet (hébergé sur Google Drive)  
 ---
 
 ## Présentation du projet
