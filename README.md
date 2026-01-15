@@ -75,6 +75,8 @@ Le projet repose sur un **pipeline de données en deux étapes** :
 
 ### 📍 Page 3 – Business Plan (Recommandation)
 
+![Business Plan - Choix Stratégique](https://github.com/BYRic-F/VideoGame-Market/raw/37eec831cbd4dfcd32e536d4438d92f1b4f2e202/images/Choix%20strat%C3%A9gique.png)
+
 🔎 **Recommandation stratégique du cabinet Level Up Analytics**
 
 **Genre recommandé**
