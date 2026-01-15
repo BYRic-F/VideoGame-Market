@@ -10,7 +10,8 @@
 ## Présentation du projet
 
 Ce dépôt contient une **analyse du marché mondial du jeu vidéo** basée sur des données couvrant la période **2021–2025**.
-Nous n'avons pas pu exploiter toutes les KPI dans ce projet, car le projet devait être effectuer en 1 journée et demi.
+
+Nous n'avons pas pu exploiter toutes les KPI dans ce projet, car le projet devait être effectuer en 1 journée et demi maximum.
 
 L’objectif est d’accompagner **Édouard**, représentant d’un éditeur *Mid-Tier*, dans la **sécurisation de son prochain investissement majeur**, en s’appuyant sur des **données factuelles** plutôt que sur l’intuition.
 
