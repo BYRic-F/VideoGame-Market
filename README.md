@@ -5,6 +5,8 @@
 
 *Durée maximum du projet : 1 journée et demi*
 
+📊 Lien vers le fichier Power BI (.pbix) Dashboard interactif complet (hébergé sur Google Drive)
+
 ---
 
 ## Présentation du projet
