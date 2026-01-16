@@ -5,7 +5,8 @@
 
 *Durée maximum du projet : 1 journée et demi*
 
-- 📊 **[Lien vers le fichier Power BI (.pbix)](https://drive.google.com/file/d/177ZS8phUrQi2kXsPt86qrFvhnZrhuogY/view?usp=sharing)**
+- 📊 **[Lien vers le fichier Power BI (.pbix)](https://drive.google.com/file/d/1Bs6fcx3ul4Tu5dbvL5CJnRT3MSnGOVOc/view?usp=sharing)**
+
   Dashboard interactif complet (hébergé sur Google Drive)  
 ---
 
@@ -121,7 +122,7 @@ Le projet repose sur un **pipeline de données en deux étapes** :
   - Leviers de performance
   - Business Plan
 
-- 📊 **[Lien vers le fichier Power BI (.pbix)](https://drive.google.com/file/d/177ZS8phUrQi2kXsPt86qrFvhnZrhuogY/view?usp=sharing)**
+- 📊 **[Lien vers le fichier Power BI (.pbix)](https://drive.google.com/file/d/1Bs6fcx3ul4Tu5dbvL5CJnRT3MSnGOVOc/view?usp=sharing)**
   Dashboard interactif complet (hébergé sur Google Drive)  
   > ⚠️ Taille du fichier > 25 Mo  
   > Identité visuelle personnalisée & mesures DAX avancées
